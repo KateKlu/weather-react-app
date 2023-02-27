@@ -7,6 +7,16 @@ function App() {
     <div className="App">
       <h1>Weather App</h1>
       <Weather />
+      <p>
+        <a
+          href="https://github.com/KateKlu/weather-react-app"
+          target="_blank"
+          rel="noreferrer"
+        >
+          Open-source code{" "}
+        </a>
+        , by Katerina Kliuieva
+      </p>
     </div>
   );
 }
